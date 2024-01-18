@@ -4,15 +4,15 @@ table
 {
 	width: 100%;
 	border: 1px solid;
-	font-family: cursive;
+	font-family:cursive;
 }
 
-input[type=submit],[type=reset],[type=button]
+input[type=submit],[type=reset]
 {
-	background-color: #04AA6D;
+	background-color: #04AA6D; 
 }
 
 td
 {
-	color: purple;
+	color:purple;
 }
